@@ -10,7 +10,7 @@
 
 
   <body>
-    ##Phone: 913-730-0785
+    ## Phone: 913-730-0785
     Website: alicenlam.com
     Email: lamalice9496@gmail.com
     College: Kansas State University
