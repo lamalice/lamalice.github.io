@@ -1,4 +1,4 @@
-alicenlam.com
+![Ruffled polka-dotted top](assets/images/20200313_165812.jpg)
 
 ## Welcome to GitHub Pages
 
