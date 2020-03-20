@@ -30,7 +30,6 @@ img.clothes_item_image {
   object-fit: cover;
 }
 
-
 img.header {
   display: inline;
 }
@@ -71,7 +70,6 @@ img.image_on_description_page{
 
 div.image{
   display: inline;
-  margin-top: 40px;
 }
 
 div.description_group{
@@ -80,6 +78,7 @@ div.description_group{
   margin-left: 20px;
   position: absolute;
   display: inline;
+  text-align: left;
 }
 
 p.item_header{
@@ -118,9 +117,17 @@ p{
 }
 div.content{
   position: absolute;
-  left: 200px;
-  margin-top: 20px;
+  display: block;
+  right: 20%;
+  top: 20%;
+  margin-right: 25%;
+
 }
 img.padding{
   padding: 3px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
 }
